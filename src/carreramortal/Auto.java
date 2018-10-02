@@ -14,6 +14,7 @@ public class Auto {
     private String patente;
     private double combustible;
     private Rueda rueda;
+    private String marca;
     
     //CONSTRUCTOR
     public Auto(String color, String patente) {
